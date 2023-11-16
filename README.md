@@ -1,6 +1,6 @@
 # Prompt - Diego Alejandro Villalobos Quintero
 # Generación de Imágenes con Modelos Preentrenados
-Este repositorio presenta un trabajo de investigación y experimentación con modelos preentrenados de Hugging Face para la generación de imágenes. El objetivo principal fue modificar el comportamiento de un modelo específico, en este caso, StableDiffusionXLPipeline de la biblioteca diffusers, para mejorar la calidad y adaptabilidad de las imágenes generadas.
+Este repositorio presenta un trabajo de investigación y experimentación con un modelo preentrenado de Hugging Face para la generación de imágenes. El objetivo principal fue modificar el comportamiento de un modelo específico, en este caso, StableDiffusionXLPipeline de la biblioteca diffusers, para mejorar la calidad y adaptabilidad de las imágenes generadas.
 
 # Contenido del Repositorio:
 # 1. Código Modificado:
@@ -12,7 +12,7 @@ En la carpeta results, se encuentran imágenes generadas durante el experimento.
 # 3. Experimentación con Otros Modelos:
 
 Se exploraron diferentes modelos preentrenados de Hugging Face, comparando sus fortalezas y debilidades en términos de generación de imágenes.
-# 4. Uso de la Interactividad del Usuario:
+# 4. Uso de la Interactividad:
 
 Se implementó la capacidad de interacción del usuario para personalizar la generación de imágenes mediante la introducción de prompts y negativos.
 # Instrucciones de Uso:
